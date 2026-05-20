@@ -28,8 +28,10 @@ This commands includes
 
 ## Output
 <img width="997" height="323" alt="image" src="https://github.com/user-attachments/assets/4ed90423-09bb-4028-97fc-03901f5fe73c" />
-<img width="997" height="323" alt="image" src="https://github.com/user-attachments/assets/be3ea7d2-f5b4-4eb9-8aa7-f1060c7c7918" />
-<img width="1205" height="650" alt="image" src="https://github.com/user-attachments/assets/47385f6e-adf4-4b6c-b1f1-f0de38c787ad" />
+<img width="1511" height="963" alt="Screenshot 2026-05-20 093023" src="https://github.com/user-attachments/assets/9e625ac5-0454-40a5-8c91-ce58f736e8c7" />
+
+<img width="1607" height="778" alt="Screenshot 2026-05-20 093004" src="https://github.com/user-attachments/assets/698cfa03-6faa-47e8-9452-8cc72bc00f10" />
+
 <img width="1205" height="650" alt="image" src="https://github.com/user-attachments/assets/63883ef2-736e-4fd7-89f5-88d1f997fcd6" />
 
 ## Result
